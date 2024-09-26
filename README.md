@@ -7,3 +7,5 @@
 
 
 ![](./Stackusingarray.png)
+
+![](./StackUsingLinkedList.png)
